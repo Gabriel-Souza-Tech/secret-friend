@@ -1,4 +1,4 @@
-# 🤫 Sorteador de Amigo Secreto
+# Sorteador de Amigo Secreto
 
 ![Status](https://img.shields.io/badge/status-concluído-brightgreen)
 ![licence](https://img.shields.io/badge/licence-MIT-blue)
@@ -31,6 +31,14 @@ O projeto foi construído com as seguintes tecnologias:
 - **CSS3:** Estilização, layout com Flexbox e design moderno.
 - **JavaScript:** Manipulação do DOM, lógica de programação para adicionar, listar e sortear os nomes.
 - **Git e GitHub:** Versionamento de código e hospedagem.
+
+---
+
+---
+
+## 🚀 Acesso ao Projeto
+
+[![Ver Deploy](https://img.shields.io/badge/Ver%20Deploy-4B69FD?style=for-the-badge)](https://gabriel-souza-tech.github.io/secret-friend/)
 
 ---
 
