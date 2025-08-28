@@ -14,6 +14,7 @@ function adicionarAmigo() {
     let campo = document.getElementById("amigo").value;
     if(campo == "") {
         alert("Preencha o campo Corretamente!");
+        return;
     } else if(lista.includes(campo)){
         alert("Ja existe esse nome na lista")
         return;
