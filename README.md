@@ -36,7 +36,7 @@ O projeto foi construído com as seguintes tecnologias:
 
 ---
 
-## 🚀 Acesso ao Projeto
+## 🌐 Acesso ao Projeto
 
 [![Ver Deploy](https://img.shields.io/badge/Ver%20Deploy-4B69FD?style=for-the-badge)](https://gabriel-souza-tech.github.io/secret-friend/)
 
